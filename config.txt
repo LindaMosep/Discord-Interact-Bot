@@ -1,0 +1,5 @@
+BotUserRoleID:9
+WhoClickedButtonChannelID:92
+BotToken:OTE4M
+
+Exe file path is C:\Users\username\source\repos\ScruffiDiscordBot\ScruffiDiscordBot\bin\Debug
